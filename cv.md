@@ -1,5 +1,6 @@
 
-
+[rsschool-cv](https://Vikkadin.github.io/rsschool-cv/)
+===========================================================
 
 Viktoriia Kelii
 ===============
@@ -11,8 +12,8 @@ Viktoriia Kelii
 ### Contact information:
 
 * viktoriiakelii@gmail.com 
-* GitHub
-* LinkedIn
+* [GitHub](https://github.com/Vikkadin/) 
+* [LinkedIn](https://www.linkedin.com/in/vika-kelii/)  
 
 
 * * *
