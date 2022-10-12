@@ -1,3 +1,3 @@
 # rsschool-cv
 
-<https://Vikkadin.github.io/rsschool-cv/cv>
+<https://Vikkadin.github.io/rsschool-cv/>
